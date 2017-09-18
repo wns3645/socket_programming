@@ -1,0 +1,5 @@
+/sample_2017
+*.swp
+*.o
+client
+server
